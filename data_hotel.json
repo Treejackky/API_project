@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "name": "Centara Grand Mirage Beach Resort Pattaya",
+    "location": "Pattaya",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_1.jpg",
+    "desc": "5-star hotel with 2 outdoor pools, near Pattaya Beach",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "The Peninsula Bangkok",
+    "location": "Bangkok",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_2.jpg",
+    "desc": "Luxury hotel with 4 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Anantara Riverside Bangkok Resort",
+    "location": "Bangkok",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_3.jpg",
+    "desc": "Luxury hotel with 5 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "The Siam Hotel",
+    "location": "Bangkok",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_4.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Four Seasons Resort Chiang Mai",
+    "location": "Chiang Mai",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_5.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "The Dhara Dhevi Chiang Mai",
+    "location": "Chiang Mai",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_6.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Rayavadee Krabi",
+    "location": "Krabi",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_7.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Pimalai Resort & Spa",
+    "location": "Krabi",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_8.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "The Naka Island, A Luxury Collection Resort & Spa",
+    "location": "Phuket",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_9.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Sri Panwa Phuket Luxury Pool Villa Hotel",
+    "location": "Phuket",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_10.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "The Ritz-Carlton, Koh Samui",
+    "location": "Koh Samui",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_11.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Four Seasons Resort Koh Samui",
+    "location": "Koh Samui",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_12.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Conrad Koh Samui",
+    "location": "Koh Samui",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_13.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "InterContinental Hua Hin Resort",
+    "location": "Hua Hin",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_14.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Hyatt Regency Hua Hin",
+    "location": "Hua Hin",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_15.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Cape Nidhra Hotel Hua Hin",
+    "location": "Hua Hin",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_16.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "The St. Regis Bangkok",
+    "location": "Bangkok",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_17.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "The Siam Hotel",
+    "location": "Bangkok",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_18.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "The Peninsula Bangkok",
+    "location": "Bangkok",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_19.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Centara Grand Mirage Beach Resort Pattaya",
+    "location": "Pattaya",
+    "image": "https://kbpxgdufneefcyphdgpx.supabase.co/storage/v1/object/public/Dev_Test_Img/Img_20.jpg",
+    "desc": "Luxury hotel with 2 restaurants, near Iconsiam",
+    "room": [
+      {
+        "type": "Deluxe Room",
+        "price": 5000
+      },
+      {
+        "type": "Deluxe Ocean Facing Room",
+        "price": 6000
+      },
+      {
+        "type": "Premium Deluxe Room",
+        "price": 7000
+      },
+      {
+        "type": "Premium Deluxe Family Residence",
+        "price": 8000
+      }
+    ]
+  }
+]
