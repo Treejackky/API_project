@@ -10,16 +10,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -35,16 +28,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -60,16 +46,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -85,16 +64,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -110,16 +82,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -135,16 +100,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -160,16 +118,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -185,16 +136,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -210,16 +154,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -235,16 +172,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -260,16 +190,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -285,16 +208,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -310,16 +226,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -335,16 +244,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -360,16 +262,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -385,16 +280,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -410,16 +298,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -435,16 +316,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -460,16 +334,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
@@ -485,16 +352,9 @@
         "type": "Deluxe Room",
         "price": 5000
       },
+
       {
-        "type": "Deluxe Ocean Facing Room",
-        "price": 6000
-      },
-      {
-        "type": "Premium Deluxe Room",
-        "price": 7000
-      },
-      {
-        "type": "Premium Deluxe Family Residence",
+        "type": "Standard",
         "price": 8000
       }
     ]
